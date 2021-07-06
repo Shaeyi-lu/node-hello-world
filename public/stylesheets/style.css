@@ -39,7 +39,7 @@ p{
 
 }
 
-//signup page
+/* signup page*/
 .signup{
     width: 500px;
     height: 500px;
@@ -90,6 +90,9 @@ p{
     text-decoration: none;
     font-weight: normal;
 
+}
+.signup h1{
+  font-size: 30px;
 }
 
 
